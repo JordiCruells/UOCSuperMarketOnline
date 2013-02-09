@@ -1,0 +1,2 @@
+THis is am implementation of a simple supermarket management aplication with no user interface, all the inteeraction is performed via the console. The coding has been performed from a given UML diagram and a list of user cases.
+This project has been developed for myself only for educational purposes.
